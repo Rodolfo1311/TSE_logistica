@@ -1,0 +1,10 @@
+Oaut
+client
+518930892662-7mhukuli3rrisetpop4ld9ac40tqfhq8.apps.googleusercontent.com
+
+secret
+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
+
+
+API key
+AIzaSyB-RhklFOwT4P9EVEt4wcvILLpEBJ1uTq8
